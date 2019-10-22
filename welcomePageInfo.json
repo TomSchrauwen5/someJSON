@@ -1,7 +1,7 @@
 {
    "text":"Welcome to Sorobon beach resorts",
    "text2":"please enjoy your stay",
-   "menu":[
+   "menu":
       {
          "drinks":[
             {
@@ -28,5 +28,5 @@
             }
          ]
       }
-   ]
+   
 }
