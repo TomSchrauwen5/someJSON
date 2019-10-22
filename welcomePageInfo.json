@@ -1,24 +1,32 @@
-{"text": "Welcome to Sorobon beach resorts",
-"text2": "please enjoy your stay",
-"menu":{
-"drinks":[{
-  "id":1,
-  "name":"Beer",
-  "price":3.50
-},
 {
-  "id":2,
-  "name":"Wine",
-  "price":5.50
-}],
-"food":[{
-  "id":3,
-  "name":"Fries",
-  "price":7.50
-},
-{
-  "id":4,
-  "name":"Pancakes",
-  "price":80.55
-}]
-}}
+   "text":"Welcome to Sorobon beach resorts",
+   "text2":"please enjoy your stay",
+   "menu":[
+      {
+         "drinks":[
+            {
+               "id":1,
+               "name":"Beer",
+               "price":3.50
+            },
+            {
+               "id":2,
+               "name":"Wine",
+               "price":5.50
+            }
+         ],
+         "food":[
+            {
+               "id":3,
+               "name":"Fries",
+               "price":7.50
+            },
+            {
+               "id":4,
+               "name":"Pancakes",
+               "price":80.55
+            }
+         ]
+      }
+   ]
+}
